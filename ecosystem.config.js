@@ -1,19 +1,19 @@
 module.exports = {
   apps: [
     {
-      name: 'Bot1',
+      name: '',
       script: 'bot.js',
       env: {
-        TOKEN: 'bot1token',
-        CHANNEL_ID: 'seslikanalid'
+        TOKEN: '',
+        CHANNEL_ID: ''
       }
     },
     {
-      name: 'Bot2',
+      name: 'Ses 1',
       script: 'bot.js',
       env: {
-        TOKEN: 'token',
-        CHANNEL_ID: 'seslikanalid'
+        TOKEN: 'MTI3NTU1MDEwOTg1NzQ4MDc1Nw.G98s9P.SiMNOeOBb_CRk4b7ejM8sBDW0gKFrUSfxXvDw8',
+        CHANNEL_ID: '1271427667576619070'
       }
     },
     {
